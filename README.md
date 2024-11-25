@@ -1,4 +1,4 @@
-# easy-minino
+# Easy-minino
 Script para entender mejor el minino
 
 # Script para el Análisis de Archivos .pcap con Minino
@@ -69,13 +69,13 @@ Este enfoque debería hacer que el proceso sea más accesible para usuarios nova
 
 ----
 
-## Redes sociales
+# Redes sociales
 
-# Instagram:
+## Instagram:
 https://www.instagram.com/arnoldm_y19/profilecard/?igsh=MTUwc2Z3ZjJmaWZmbA==
 
-# Tiktok
+## Tiktok
 https://www.tiktok.com/@fan_tasma?_t=8rh15oWyhC4&_r=1
 
-# X / Twitter
+## X / Twitter
 https://x.com/arnoldmy0?s=21
