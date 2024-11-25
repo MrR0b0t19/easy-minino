@@ -28,7 +28,7 @@ Antes de empezar, debes tener claro que para usuarlo ya debes tener el archivo d
    - En Wireshark podrás ver una lista detallada de todos los paquetes de red.
    - esto es el caso normal y el generico
 
-3. Utiliza el script para facilitar la interpretación: Si no deseas o desconoces como analizar cada paquete manualmente, puedes usar el script que he creado para extraer información relevante y presentarla de manera más amigable. El script puede identificar dispositivos IoT, mostrar las direcciones IP y MAC, y resaltar los tipos de paquete.
+3. Utiliza el script para facilitar la interpretación: Si no deseas o desconoces como analizar cada paquete manualmente, puedes usar el script que he creado para extraer información relevante y presentarla de manera más amigable. El script puede resaltar los tipos de paquete.
 
    - Instrucciones de uso del script:
      1. Ejecuta el script en tu entorno de desarrollo o en kali.
